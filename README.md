@@ -1,1 +1,3 @@
-# ruby-2.4.2-media
+# docker-circleci-media
+
+CircleCI image(s) with mediapackages
